@@ -1,12 +1,23 @@
 # kawakamisekkei
 
-We identify ambiguous, repetitive operational processes and replace them with reproducible, code-based modules — grounded in causal inference, statistical modeling, and mathematical methods.
+Official GitHub organization of kawakamisekkei.
+
+Selected public repositories related to data science, mathematical engineering, and technical materials. Tokyo, Japan. Est. September 1989. Operated by 株式会社川上設計.
+
+**Brand**: kawakamisekkei  
+**Official website**: [kawakamisekkei.com](https://kawakamisekkei.com/)  
+**Field**: Data science and mathematical engineering  
+**Base**: Tokyo, Japan  
+**Est.**: September 1989  
+**Operated by**: 株式会社川上設計
 
 ## About This Organization
 
-This organization presents selected public repositories related to software, data systems, website operations, and technical materials by kawakamisekkei.
+This organization contains selected public repositories by kawakamisekkei, including software, data systems, website operations, and technical materials.
 
-Learn more about our approach, solutions, and technical focus at **[kawakamisekkei.com](https://kawakamisekkei.com/)**
+Learn more about our approach, company profile, and technical focus at [kawakamisekkei.com](https://kawakamisekkei.com/)
+
+For inquiries, please use our [contact page](https://kawakamisekkei.com/contact/).
 
 ---
 
@@ -23,28 +34,21 @@ Python · R · SQL · AWS · GCP · CI/CD · Containers
 
 ---
 
-## Company
-
-kawakamisekkei  
-Tokyo, Japan · Founded 1989
-
-Operated by 株式会社川上設計 as part of its public technical and corporate presence.  
-[kawakamisekkei.com](https://kawakamisekkei.com/)
-
----
-
 <details>
 <summary>日本語 / Japanese</summary>
+<br>
 
-## kawakamisekkei
+kawakamisekkei の公式 GitHub Organization です。
 
-曖昧なまま反復されている業務プロセスを特定し、因果推論・統計モデリング・数理的手法にもとづいて、再現可能なコードベースのモジュールへ置き換えます。
+データサイエンス、数理技術、技術資料に関する公開リポジトリを掲載しています。東京拠点。1989年9月創業。運営法人は 株式会社川上設計 です。
 
 ## この Organization について
 
-川上設計が公開するソフトウェア、データシステム、サイト運用、技術資料に関するリポジトリを掲載しています。
+kawakamisekkei が公開する、ソフトウェア、データシステム、サイト運用、技術資料に関するリポジトリを掲載しています。
 
-アプローチ、ソリューション、技術領域の詳細は **[kawakamisekkei.com](https://kawakamisekkei.com/)** をご覧ください。
+アプローチ、会社情報、技術領域の詳細は [kawakamisekkei.com](https://kawakamisekkei.com/) をご覧ください。
+
+お問い合わせは [お問い合わせページ](https://kawakamisekkei.com/contact/) よりお願いいたします。
 
 ---
 
@@ -58,15 +62,5 @@ Operated by 株式会社川上設計 as part of its public technical and corpora
 ## 技術
 
 Python · R · SQL · AWS · GCP · CI/CD · コンテナ
-
----
-
-## 会社情報
-
-株式会社川上設計  
-東京都中央区 · 1989年創業
-
-本 GitHub Organization は、株式会社川上設計の技術的・対外的な発信の一環として運用しています。  
-[kawakamisekkei.com](https://kawakamisekkei.com/)
 
 </details>
